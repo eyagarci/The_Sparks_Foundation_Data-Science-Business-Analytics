@@ -1,1 +1,1 @@
-# The_Sparks_Foundation_Data-Science-Business-Analytics
+# Data Science and Business Analytics
